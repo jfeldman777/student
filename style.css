@@ -1,0 +1,8 @@
+body{font-family:Segoe UI,Arial,sans-serif;margin:0;background:#f0f4ff;color:#333}
+.topbar{background:#5a78ff;color:#fff;padding:12px 20px;display:flex;justify-content:center;align-items:center}
+.topbar .title{font-size:20px;font-weight:bold}
+.footer{background:#e3e6ff;padding:10px;text-align:center;margin-top:20px}
+.room-card{background:#fff;padding:14px;margin:10px 0;border-radius:12px;box-shadow:0 4px 10px rgba(0,0,0,0.08);border-left:6px solid #5a78ff;position:relative}
+.btn{background:#5a78ff;color:#fff;padding:6px 14px;border-radius:6px;border:none;cursor:pointer}
+.room-img{max-width:300px;border-radius:10px}
+.hidden{display:none}
